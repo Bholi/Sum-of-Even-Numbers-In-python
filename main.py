@@ -5,7 +5,6 @@ s = 0
 #     if i % 2 == 0:
 #         # print(i)
 #         s += i
-
 # Easier Method
 for i in range(2, 101, 2):
     s += i
